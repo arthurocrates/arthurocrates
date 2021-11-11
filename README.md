@@ -33,6 +33,10 @@
 - [Analisis de sentimientos con NLP Azure](https://diogeneshoy.com/humanidades-digitales/analisis-de-sentimientos-con-nlp-azure/)
 <!-- BLOG-POST-LIST:END -->
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arthurocrates&show_icons=true&count_private=true&theme=tokyonight" align="center" /></div>  
+
+
 <!--
 **arthurocrates/arthurocrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
