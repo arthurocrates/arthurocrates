@@ -44,7 +44,7 @@
 
 ## Datos divertidos
 
-- Soy filosofo :-D
+- Soy filosofo 😛 y seguidor de Diogenes
 - Hablo Esperanto
 
 
