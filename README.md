@@ -1,11 +1,11 @@
 # Pri mi
 ----
 
-<div align="center">  
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/arthurocrates/arthurocrates/main/banderolodua.png" alt="Arthurocrates"/>
-</div> 
+<div align="center">
+  <img style="margin: 10px" src="gitbanderolo.png" alt="Arthurocrates"/>
+</div>
 
-## En redes sociales 
+## En redes sociales
 ----
 
 <div align="center">
@@ -30,23 +30,22 @@
 - [Analisis de sentimientos con NLP Azure](https://diogeneshoy.com/humanidades-digitales/analisis-de-sentimientos-con-nlp-azure/)
 <!-- BLOG-POST-LIST:END -->
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arthurocrates&show_icons=true&count_private=true&theme=tokyonight" align="center" /></div>  
+## Github Stats
+----
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arthurocrates&show_icons=true&count_private=true&theme=tokyonight" align="center" /></div>
 
+## Estoy Aprendiendo
 
-<!--
-**arthurocrates/arthurocrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python
 
-Here are some ideas to get you started:
+## Preguntame Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Humanidades Digitales
+
+## Datos divertidos
+
+- Soy filosofo :-D
+- Hablo Esperanto
+
 
 
